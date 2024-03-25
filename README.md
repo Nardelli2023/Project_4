@@ -42,5 +42,6 @@ Row Labels	Sum of Population	Sum of Overall Homeless	% of population
 2023	         334,914,895.00 	                                649,535.00 	0.19%
 
 
+
 Limitations: 
 When HUD predicts the population growth, they use sophisticated formulas with various dataset which include the prediction of High immigration, low immigration, and medium immigration, in addition to this they use death and birth rate predictions. 
