@@ -27,24 +27,8 @@ Within this process there was enthralling information displayed from the year 20
 By the year 2022 the number of homelessness was back up by almost 200,000 as shown below. Some research provided by (https://www.housingfinance.com/news/homelessness-spikes-12-in-latest-count_o) suggests that the median for renting rates in the US from years 2021-2022 had increased by over 9% which resulted in a new surge of homelessness for more vulnerable populations. This article also points out how the federal rental assistance provided for the pandemic had run its course leaving lots of individuals and families in difficult financial circumstances once again.
 
 
-Row Labels	Sum of Population	Sum of Overall Homeless	% of population
-2007	         301,231,207.00 	                                641,665.00 	0.21%
-2008	         304,093,966.00 	                                635,445.00 	0.21%
-2009	         306,771,529.00 	                                624,598.00 	0.20%
-2010	         309,321,666.00 	                                630,806.00 	0.20%
-2011	         311,556,874.00 	                                618,611.00 	0.20%
-2012	         313,830,990.00 	                                616,556.00 	0.20%
-2013	         315,993,715.00 	                                584,483.00 	0.18%
-2014	         318,301,008.00 	                                570,514.00 	0.18%
-2015	         320,635,163.00 	                                558,573.00 	0.17%
-2016	         322,941,311.00 	                                544,084.00 	0.17%
-2017	         324,985,539.00 	                                545,566.00 	0.17%
-2018	         326,687,501.00 	                                547,264.00 	0.17%
-2019	         328,239,523.00 	                                562,184.00 	0.17%
-2020	         331,454,351.00 	                                575,714.00 	0.17%
-2021	         332,048,977.00 	                                379,813.00 	0.11%
-2022	         333,271,411.00 	                                577,778.00 	0.17%
-2023	         334,914,895.00 	                                649,535.00 	0.19%
+![image](https://github.com/Nardelli2023/Project_4/assets/145957737/cbf63af2-b130-4272-ab00-a25e75a21077)
+
 
 
 
