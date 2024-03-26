@@ -34,4 +34,22 @@ By the year 2022 the number of homelessness was back up by almost 200,000 as sho
 
 Limitations: 
 
-When HUD predicts the population growth, they use sophisticated formulas with various dataset which include the prediction of High immigration, low immigration, and medium immigration, in addition to this they use death and birth rate predictions. 
+When HUD predicts the population growth, they use sophisticated formulas with various dataset which include the prediction of High immigration, low immigration, and medium immigration, in addition to this they use death and birth rate predictions. According to the data, we can only predict about 35% of accuracy towards future homelessness.
+
+
+Conclusion: 
+
+-The model performs relatively well for the Midwest region with a precision of 0.62 and a higher recall of 0.38.
+
+-The South region also has a decent precision of 0.41 but a slightly lower recall of 0.36.
+
+-The West region has a high recall of 0.53 but a low precision of 0.23, indicating that the model tends to overpredict the West region.
+
+-The Northeast region has the lowest performance with the lowest precision and recall among all regions.
+
+Overall, based off our data analysis provided by HUD, it is difficult to predict the future rate of homelessness in the US. The model might benefit from further tuning or a different approach to improve its performance, especially for the Northeast and West regions. With many different factors influencing surges and declines, it would be a challenge to predict the accuracy based on the information we have utilized for this project.
+
+Additional Sources:
+
+https://www.huduser.gov/portal/sites/default/files/pdf/2023-AHAR-Part-1.pdf"The 2023 Annual Homelessness Assessment Report (AHAR) to Congress"Data Reports Show that Surge in Homelessness Was Averted During COVID-19 National Emergency | HUD.gov / U.S. Department of Housing and Urban Development (HUD)HUD.gov / U.S. Department of Housing and Urban Development (HUD) |chatGPTThe National Alliance to End HomelessnessHomelessness in America: Statistics, Analysis, & Trends | Security.orghttps://www.census.gov
+
