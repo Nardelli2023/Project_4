@@ -53,4 +53,5 @@ Overall, based off our data analysis provided by HUD, it is difficult to predict
 Additional Sources:
 
 https://www.huduser.gov/portal/sites/default/files/pdf/2023-AHAR-Part-1.pdf"The 2023 Annual Homelessness Assessment Report (AHAR) to Congress"Data Reports Show that Surge in Homelessness Was Averted During COVID-19 National Emergency | HUD.gov / U.S. Department of Housing and Urban Development (HUD)HUD.gov / U.S. Department of Housing and Urban Development (HUD) |chatGPTThe National Alliance to End HomelessnessHomelessness in America: Statistics, Analysis, & Trends | Security.orghttps://www.census.gov
+https://endhomelessness.org/homelessness-in-america/who-experiences-homelessness/youth/#:~:text=Youth%20homelessness%20is%20often%20rooted%20in%20family%20conflict.,systems%20are%20also%20more%20likely%20to%20become%20homeless.
 
